@@ -11,7 +11,7 @@ Sales Performance Dashboard – descriptive analytics
 
 15-Day Sales Forecast Dashboard – predictive analytics
 
-## 2️⃣ The Challenge
+## 1️⃣ The Challenge
 The business needed a centralized analytics solution that could consolidate sales data, track performance across segments and regions, compare historically, highlight weaknesses, and forecast near‑term sales.
 
 ## 3️⃣ My Approach
@@ -28,7 +28,7 @@ The business needed a centralized analytics solution that could consolidate sale
 - Confidence interval for uncertainty
 - Short‑term demand visualization
 
-## 4️⃣ What the Data Revealed
+## 3️⃣ What the Data Revealed
 ### Winners
 - Consumer segment leads revenue.
 - Office Supplies is the highest‑selling category.
@@ -47,13 +47,13 @@ The business needed a centralized analytics solution that could consolidate sale
 - Slight upward trend.
 - High volatility → careful inventory planning needed.
 
-## 5️⃣ The Impact
+## 4️⃣The Impact
 - Faster, unified reporting
 - Clear regional and category insights
 - Predictive planning via 15‑day forecast
 - Data‑driven performance optimization
 
-## 6️⃣ What This Project Demonstrates
+## 5️⃣ What This Project Demonstrates
 - Full BI workflow execution
 - Forecasting + analytics integration
 - Strong dashboard design and storytelling
